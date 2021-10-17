@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(241, 223, 201);
+  padding-left: 50px;
+}
+
+p {
+  font-size: 18px;
+}
+
+div {
+  width: 500px;
+  padding: 5px;
+  border: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.mathDiv {
+  background-color: coral;
+}
+
+.scienceDiv {
+  background-color: rgb(132, 134, 243);
+}
+
+.languageDiv {
+  background-color: rgb(226, 200, 84);
+}
+
+.miscDiv {
+  background-color: rgb(218, 118, 156);
+}
+
+.grandTotalDiv {
+  background-color: rgb(101, 209, 124);
+}
